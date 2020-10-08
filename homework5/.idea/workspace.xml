@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24a9163f-b80f-46eb-80a5-28bfe22dae80" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UegWejUDRo1qdrAmegEhJEAHTi" />
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GestureDetectorNeuralNetworkApp">
+    <configuration name="GestureDetectorNeuralNetworkApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.zemris.nenr.dz5.gesturedetector.GestureDetectorNeuralNetworkApp" />
+      <module name="nenr-dz5" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\Alen\eclipse-workspace\nenr-dz5\samples\main_samples_020 20 40.10.5 1 20000 0.0001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.zemris.nenr.dz5.gesturedetector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GestureDetectorTrainingSetCreatorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.zemris.nenr.dz5.gesturedetector.GestureDetectorTrainingSetCreatorApp" />
+      <module name="nenr-dz5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.zemris.nenr.dz5.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleNeuralNetworkDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hr.fer.zemris.nenr.dz5.neuralnetwork.demo.SimpleNeuralNetworkDemo" />
+      <module name="nenr-dz5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hr.fer.zemris.nenr.dz5.neuralnetwork.transferfunction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GestureDetectorTrainingSetCreatorApp" />
+      <item itemvalue="Application.SimpleNeuralNetworkDemo" />
+      <item itemvalue="Application.GestureDetectorNeuralNetworkApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GestureDetectorNeuralNetworkApp" />
+        <item itemvalue="Application.GestureDetectorTrainingSetCreatorApp" />
+        <item itemvalue="Application.SimpleNeuralNetworkDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24a9163f-b80f-46eb-80a5-28bfe22dae80" name="Default Changelist" comment="" />
+      <created>1575722507658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575722507658</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="groups.get(2).groupSamples.get(1).outputValues" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/nenr_dz5$GestureDetectorTrainingSetCreator.ic" NAME="GestureDetectorTrainingSetCreator Coverage Results" MODIFIED="1575826480467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>hr.fer.zemris.nenr.dz5.gesturedetector.*</FILTER>
+    </SUITE>
+  </component>
+</project>
